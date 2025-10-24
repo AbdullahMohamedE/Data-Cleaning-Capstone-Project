@@ -51,7 +51,7 @@ this project walks through the full process of transforming messy data into a re
 | File | Description |
 |------|--------------|
 | `data_cleaning.sql` | Main SQL script containing all cleaning steps |
-| `layoffs_raw.csv` *(optional)* | Raw data source used for the project |
+| `layoffs.csv` *(optional)* | Raw data source used for the project |
 | `README.md` | Project documentation |
 
 ---
