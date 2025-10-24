@@ -69,10 +69,10 @@ After cleaning, the data:
 ## 🚀 How to Run
 
 1. Create and load the raw data table:
-   ```sql
+   sql
    CREATE TABLE layoffs (...);
    LOAD DATA INFILE 'layoffs_raw.csv' INTO TABLE layoffs;
-````
+
 
 2. Run the cleaning script:
 
@@ -103,9 +103,3 @@ Through this project, I practiced:
 **Abdullah Mohamed**
 📚 Aspiring Software Engineer
 📫 Connect on [LinkedIn](https://www.linkedin.com/) *(https://www.linkedin.com/in/abdullah-mohamed2210/)*
-
-
-Would you like me to also create a **short GitHub project description + tags** (for the top of the repo)?  
-Example:  
-> “SQL capstone project for cleaning and transforming a layoffs dataset — using window functions, CTEs, and data normalization.”
-```
